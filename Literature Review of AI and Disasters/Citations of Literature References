@@ -1,32 +1,114 @@
 # AI & Disaster Management – Literature References
 
-## Literature List (Alphabetical)
+Disaster AI & Social Media Research
 
-Abavisani, M., Wu, L., Hu, S., Tetreault, J., & Jaimes, A. (2020). *Multimodal Categorization of Crisis Events in Social Media.* arXiv preprint arXiv:2004.04917.
+    1   [2020 arXiv] Multimodal Categorization of Crisis Events in Social Media  
+        Abavisani, Wu, Hu, Tetreault, Jaimes  
+        [paper]  
+        Keywords: Multimodal Learning, Social Media, Crisis Detection, Disaster NLP
 
-Ahmad, K., Iqbal, M., & Ullah, A. (2021). *A Comparative Study of Deep Learning Methods for the Detection and Classification of Natural Disasters from Social Media.* Applied Sciences, 11(2), 725.
+    2   [2021 Applied Sciences] A Comparative Study of Deep Learning Methods for the Detection and Classification of Natural Disasters from Social Media  
+        Ahmad, Iqbal, Ullah  
+        [paper]  
+        Keywords: Deep Learning, Disaster Tweets, Classification, Social Media Mining
 
-Akinboyewa, T., Ning, H., Lessani, M. N., & Li, Z. (2024). *Automated Floodwater Depth Estimation Using Large Multimodal Model for Rapid Flood Mapping.* Computational Urban Science.
+    3   [2024 Computational Urban Science] Automated Floodwater Depth Estimation Using Large Multimodal Model for Rapid Flood Mapping  
+        Akinboyewa, Ning, Lessani, Li  
+        [paper]  
+        Keywords: Flood Mapping, Multimodal AI, Remote Sensing, Depth Estimation
 
-Alam, F., Ofli, F., & Imran, M. (2018). *A Comparison Study for Disaster Tweet Classification Using Deep Learning Models.* Proceedings of the International AAAI Conference on Web and Social Media.
+    4   [2018 ICWSM] A Comparison Study for Disaster Tweet Classification Using Deep Learning Models  
+        Alam, Ofli, Imran  
+        [paper]  
+        Keywords: Disaster Tweets, Classification, NLP, Social Media Analytics
 
-Alam, F., Sajjad, H., Imran, M., & Ofli, F. (2021). *CrisisBench: Benchmarking Crisis-Related Social Media Datasets for Humanitarian Information Processing.* Proceedings of the International AAAI Conference on Web and Social Media.
+    5   [2021 ICWSM] CrisisBench: Benchmarking Crisis-Related Social Media Datasets for Humanitarian Information Processing  
+        Alam, Sajjad, Imran, Ofli  
+        [paper]  
+        Keywords: Dataset Benchmarking, Humanitarian AI, Crisis Datasets
 
-Alharm, A. O., & Naim, S. (2024). *Enhancing Natural Disaster Response: A Deep Learning Approach to Disaster Sentiment Analysis using BERT and LSTM.* SSRN Electronic Journal.
+    6   [2024 SSRN] Enhancing Natural Disaster Response: A Deep Learning Approach to Disaster Sentiment Analysis using BERT and LSTM  
+        Alharm, Naim  
+        [paper]  
+        Keywords: Sentiment Analysis, BERT, LSTM, Disaster Response
 
-Alsan, H. F., & Arsan, T. (2023). *Dynamic Task and Weight Prioritization Curriculum Learning for Multimodal Imagery.* arXiv preprint arXiv:2310.19109.
+    7   [2023 arXiv] Dynamic Task and Weight Prioritization Curriculum Learning for Multimodal Imagery  
+        Alsan, Arsan  
+        [paper]  
+        Keywords: Curriculum Learning, Multimodal Imagery, Optimization
 
-Anderson, B. (2015). *Governing Emergencies: The Politics of Delay and the Logic of Response.* Transactions of the Institute of British Geographers, 40(1), 14–26.
+    8   [2015 Transactions of the Institute of British Geographers] Governing Emergencies: The Politics of Delay and the Logic of Response  
+        Anderson  
+        [paper]  
+        Keywords: Emergency Governance, Disaster Policy, Response Theory
 
-Andreadis, S., Bozas, A., Gialampoukidis, I., Moumtzidou, A., Fiorin, R., Lombardo, F., et al. (2022). *DisasterMM: Multimedia Analysis of Disaster-Related Social Media Data Task at MediaEval 2022.* CEUR Workshop Proceedings.
+    9   [2022 MediaEval] DisasterMM: Multimedia Analysis of Disaster-Related Social Media Data Task  
+        Andreadis et al.  
+        [paper]  
+        Keywords: Multimedia Analysis, Social Media, Disaster Benchmark
 
-Madichetty, S., & Sridevi, M. (2021). *A Neural-Based Approach for Detecting the Situational Information from Twitter During Disaster.* IEEE Transactions on Computational Social Systems, 8(4), 870–882.
+    10  [2022 KDIS] Adapting Transformers for Detecting Emergency Events on Social Media  
+        Boros, Lejeune, Coustaty, Doucet  
+        [paper]  
+        Keywords: Transformers, Event Detection, NLP, Emergency Signals
 
-Mehmood, A., Zamir, M. T., Ayub, M. A., Ahmad, N., & Ahmad, K. (2024). *A Named Entity Recognition and Topic Modeling-Based Solution for Locating and Better Assessment of Natural Disasters in Social Media.* arXiv preprint arXiv:2405.00903.
+    11  [2024 Expert Systems with Applications] Social Context-Aware Graph-Based Multimodal Attentive Learning Framework for Disaster Content Classification  
+        Dar et al.  
+        [paper]  
+        Keywords: Graph Neural Networks, Multimodal Classification, Social Context
 
-Wald, D. J., Quitoriano, V., Heaton, T. H., & Kanamori, H. (1999). *“Did You Feel It?” Intensity Data: A Surprisingly Good Measure of Earthquake Ground Motion.* Seismological Research Letters, 70(6), 680–697.
+    12  [2023 ISPRS IJGI] Applicability Analysis and Ensemble Application of BERT with TF-IDF, TextRank, MMR, and LDA for Topic Classification Based on Flood-Related VGI  
+        Du, Ge, Yao, Chen, Xu  
+        [paper]  
+        Keywords: Flood VGI, Topic Classification, Ensemble NLP, BERT
 
-Xia, Y., Huang, Y., Qiu, Q., Zhang, X., Miao, L., & Chen, Y. (2024). *A Question and Answering Service of Typhoon Disasters Based on the T5 Large Language Model.* ISPRS International Journal of Geo-Information, 13(5), 165.
+    13  [2014 WWW Companion] AIDR: Artificial Intelligence for Disaster Response  
+        Imran, Castillo, Lucas, Meier, Vieweg  
+        [paper]  
+        Keywords: Crisis Informatics, AI Systems, Disaster Response Automation
 
-Zhang, M., Huang, Q., & Liu, H. (2022). *A Multimodal Data Analysis Approach to Social Media during Natural Disasters.* Sustainability, 14(9), 5536.
+    14  [2023 Natural Hazards Review] AI-Assisted Protective Action: Study of ChatGPT as an Information Source for Climate Hazards  
+        Li, Jiang, Mostafavi  
+        [paper]  
+        Keywords: ChatGPT, Public Risk Communication, Climate Hazards
+
+    15  [2021 IEEE TCSS] Neural-Based Approach for Detecting Situational Information from Twitter During Disaster  
+        Madichetty, Sridevi  
+        [paper]  
+        Keywords: Situational Awareness, Twitter NLP, Disaster Signals
+
+    16  [2024 arXiv] Named Entity Recognition and Topic Modeling-Based Solution for Locating Natural Disasters in Social Media  
+        Mehmood et al.  
+        [paper]  
+        Keywords: NER, Topic Modeling, Disaster Localization
+
+    17  [2024 IEEE Public Safety] AI-Powered Crisis Response: Streamlining Emergency Management with LLMs  
+        Otal, Canbaz  
+        [paper]  
+        Keywords: LLMs, Emergency Management, Decision Support
+
+    18  [2020 Natural Hazards] Applications of Artificial Intelligence for Disaster Management  
+        Sun, Bocchini, Davison  
+        [paper]  
+        Keywords: AI Survey, Disaster Phases, Decision Support
+
+    19  [1999 Seismological Research Letters] “Did You Feel It?” Intensity Data as a Measure of Earthquake Ground Motion  
+        Wald, Quitoriano, Heaton, Kanamori  
+        [paper]  
+        Keywords: Earthquake Sensing, Citizen Science, Ground Motion
+
+    20  [2024 ISPRS IJGI] Question-Answering Service of Typhoon Disasters Based on the T5 Large Language Model  
+        Xia et al.  
+        [paper]  
+        Keywords: QA Systems, Typhoon Response, LLMs
+
+    21  [2022 Sustainability] Multimodal Data Analysis Approach to Social Media during Natural Disasters  
+        Zhang, Huang, Liu  
+        [paper]  
+        Keywords: Multimodal Analysis, Social Media Mining
+
+    22  [2023 Engineering Applications of AI] ALBERT-Based TextCNN-Hatt Hybrid Model for Sentiment Analysis of Sudden-Onset Disasters  
+        Zhang, Ma  
+        [paper]  
+        Keywords: Sentiment Analysis, ALBERT, Hybrid NLP
 
