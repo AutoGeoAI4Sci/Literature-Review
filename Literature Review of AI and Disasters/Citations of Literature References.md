@@ -820,5 +820,80 @@ Earthquake Impact Assessment**
 
 168. **[2024] Zero-Shot Classification of Crisis Tweets Using Instruction-Finetuned Large Language Models**
    McDaniel, Scheele, Liu  
-   [[paper]]()  
+   [[paper]](https://arxiv.org/abs/2410.00182)  
    *Keywords:* Crisis Tweet Classification, Zero-Shot Classification, Instruction-Tuned LLMs, Informativeness Detection, Humanitarian Labels
+
+169. **[2014] Seismic Performance of Masonry Residential Buildings in Lorca’s City Centre After the 11 May 2011 Earthquake**  
+   Basset-Salom, Guardiola-Víllora  
+   [[paper]](https://doi.org/10.1007/s10518-013-9559-8)  
+   *Keywords:* Masonry Buildings, Seismic Performance, Earthquake Damage, Structural Assessment  
+
+170. **[2023] Exploring Cognitive Sustainability Concerns in Public Responses to Extreme Weather Events: An NLP Analysis of Twitter Data**  
+   Berbere, Elkefi, Layeb, Tounsi  
+   [[paper]](https://doi.org/10.55343/CogSust.80)  
+   *Keywords:* NLP, Twitter Analysis, Extreme Weather, Public Perception, Cognitive Sustainability  
+
+171. **[2021] Street View Imagery in Urban Analytics and GIS: A Review**  
+   Biljecki, Ito  
+   [[paper]](https://doi.org/10.1016/j.landurbplan.2021.104217)  
+   *Keywords:* Street View Imagery, Urban Analytics, GIS, Urban Data  
+
+172. **[2020] Geospatial Artificial Intelligence: Potentials of Machine Learning for 3D Point Clouds and Geospatial Digital Twins**  
+   Döllner  
+   [[paper]](https://doi.org/10.1007/s41064-020-00102-3)  
+   *Keywords:* Geospatial AI, Machine Learning, 3D Point Clouds, Digital Twins  
+
+173. **[2024] Building Typology Classification Using Convolutional Neural Networks for City-Scale Rapid Seismic Vulnerability Assessment**  
+   Firmansyah, Sarli, Twinanda, Santoso, Imran  
+   [[paper]](https://doi.org/10.1016/j.engappai.2023.107824)  
+   *Keywords:* CNN, Building Typology, Seismic Vulnerability, Computer Vision  
+
+174. **[2024] Rapid Fine-Grained Damage Assessment of Buildings on a Large Scale: A Case Study of the February 2023 Earthquake in Turkey**  
+   Hong, Zhang, Tong, Liu, Zhou, Pan, Zhang, Han, Wang, Yang  
+   [[paper]](https://doi.org/10.1109/JSTARS.2024.3362809)  
+   *Keywords:* Building Damage Assessment, Earthquake, Remote Sensing, Disaster Response  
+
+175. **[2024] Challenges in Data-Driven Geospatial Modeling for Environmental Research and Practice**  
+   Koldasbayeva, Tregubova, Gasanov, Zaytsev, Petrovskaia, Burnaev  
+   [[paper]](https://doi.org/10.1038/s41467-024-55240-8)  
+   *Keywords:* Geospatial Modeling, Environmental Research, Data Challenges, GeoAI  
+
+176. **[2021] Modelling and Mapping Eye-Level Greenness Visibility Exposure Using Multi-Source Data at High Spatial Resolutions**  
+   Labib, Huck, Lindley  
+   [[paper]](https://doi.org/10.1016/j.scitotenv.2020.143050)  
+   *Keywords:* Urban Greenness, Visibility Analysis, Spatial Modeling, Environmental Exposure  
+
+177. **[2023] High or Low? Exploring the Restorative Effects of Visual Levels on Campus Spaces Using Machine Learning and Street View Imagery**  
+   Ma, Xu, Zhang  
+   [[paper]](https://doi.org/10.1016/j.ufug.2023.128087)  
+   *Keywords:* Machine Learning, Street View Imagery, Urban Green Space, Human Wellbeing  
+
+178. **[2024] Urban Resilience Index for Critical Infrastructure: A Scenario-Based Approach to Disaster Risk Reduction in Road Networks**  
+   Rezvani, Silva, Almeida  
+   [[paper]](https://doi.org/10.3390/su16104143)  
+   *Keywords:* Urban Resilience, Disaster Risk Reduction, Infrastructure Networks  
+
+179. **[2020] Change Detection Based on Artificial Intelligence: State-of-the-Art and Challenges**  
+   Shi, Zhang, Zhang, Chen, Zhan  
+   [[paper]](https://doi.org/10.3390/rs12101688)  
+   *Keywords:* Change Detection, Artificial Intelligence, Remote Sensing  
+
+180. **[2023] Plug-and-Play VQA: Zero-Shot Visual Question Answering by Conjoining Large Pretrained Models with Zero Training**  
+   Tiong, Li, Li, Savarese, Hoi  
+   [[paper]](https://doi.org/10.48550/arXiv.2210.08773)  
+   *Keywords:* Visual Question Answering, Zero-Shot Learning, Large Pretrained Models  
+
+181. **[2023] The Social Vulnerability Index as a Risk Stratification Tool for Health Disparity Research in Cancer Patients: A Scoping Review**  
+   Tran, Rousseau, Farris, Bauer, Nelson, Doan  
+   [[paper]](https://doi.org/10.1007/s10552-023-01683-1)  
+   *Keywords:* Social Vulnerability Index, Health Disparities, Risk Stratification  
+
+182. **[2020] Damage Assessment Using Google Street View: Evidence from Hurricane Michael in Mexico Beach, Florida**  
+   Zhai, Peng  
+   [[paper]](https://doi.org/10.1016/j.apgeog.2020.102252)  
+   *Keywords:* Google Street View, Damage Assessment, Hurricane Analysis  
+
+183. **[2022] Flood Depth Assessment with Location-Based Social Network Data and Google Street View**  
+   Zou, Peng, Huang  
+   [[paper]](https://doi.org/10.1109/IGARSS46834.2022.9884254)  
+   *Keywords:* Flood Assessment, Social Media Data, Street View Imagery, Remote Sensing  
